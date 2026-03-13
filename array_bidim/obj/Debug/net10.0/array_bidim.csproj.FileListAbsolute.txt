@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\bin\Debug\net10.0\array_bidim.exe
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\bin\Debug\net10.0\array_bidim.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\bin\Debug\net10.0\array_bidim.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\bin\Debug\net10.0\array_bidim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\bin\Debug\net10.0\array_bidim.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\refint\array_bidim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\array_bidim.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array_bidim\obj\Debug\net10.0\ref\array_bidim.dll

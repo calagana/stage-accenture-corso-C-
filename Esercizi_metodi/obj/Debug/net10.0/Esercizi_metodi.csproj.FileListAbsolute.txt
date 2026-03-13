@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\bin\Debug\net10.0\Esercizi_metodi.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\refint\Esercizi_metodi.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\Esercizi_metodi.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizi_metodi\obj\Debug\net10.0\ref\Esercizi_metodi.dll

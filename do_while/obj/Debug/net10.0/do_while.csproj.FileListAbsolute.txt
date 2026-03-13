@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\bin\Debug\net10.0\do_while.exe
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\bin\Debug\net10.0\do_while.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\bin\Debug\net10.0\do_while.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\bin\Debug\net10.0\do_while.dll
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\bin\Debug\net10.0\do_while.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.dll
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\refint\do_while.dll
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\do_while.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\do_while\obj\Debug\net10.0\ref\do_while.dll

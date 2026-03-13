@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\bin\Debug\net10.0\Esercizio_liste.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\bin\Debug\net10.0\Esercizio_liste.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\bin\Debug\net10.0\Esercizio_liste.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\bin\Debug\net10.0\Esercizio_liste.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\bin\Debug\net10.0\Esercizio_liste.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\refint\Esercizio_liste.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\Esercizio_liste.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_liste\obj\Debug\net10.0\ref\Esercizio_liste.dll

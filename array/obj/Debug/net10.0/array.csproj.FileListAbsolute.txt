@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array\bin\Debug\net10.0\array.exe
+C:\Users\Administrator\RiderProjects\ptova 1\array\bin\Debug\net10.0\array.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\array\bin\Debug\net10.0\array.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\array\bin\Debug\net10.0\array.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array\bin\Debug\net10.0\array.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\refint\array.dll
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\array.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\array\obj\Debug\net10.0\ref\array.dll

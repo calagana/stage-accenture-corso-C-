@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\bin\Debug\net10.0\Incap_ered_polim.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\bin\Debug\net10.0\Incap_ered_polim.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\bin\Debug\net10.0\Incap_ered_polim.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\bin\Debug\net10.0\Incap_ered_polim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\bin\Debug\net10.0\Incap_ered_polim.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\refint\Incap_ered_polim.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\Incap_ered_polim.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Incap_ered_polim\obj\Debug\net10.0\ref\Incap_ered_polim.dll

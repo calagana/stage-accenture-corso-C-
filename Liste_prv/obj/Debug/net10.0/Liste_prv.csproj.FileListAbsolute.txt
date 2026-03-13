@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\bin\Debug\net10.0\Liste_prv.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\bin\Debug\net10.0\Liste_prv.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\bin\Debug\net10.0\Liste_prv.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\bin\Debug\net10.0\Liste_prv.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\bin\Debug\net10.0\Liste_prv.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\refint\Liste_prv.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\Liste_prv.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Liste_prv\obj\Debug\net10.0\ref\Liste_prv.dll

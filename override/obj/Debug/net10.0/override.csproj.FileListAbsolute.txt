@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\override\bin\Debug\net10.0\override.exe
+C:\Users\Administrator\RiderProjects\ptova 1\override\bin\Debug\net10.0\override.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\override\bin\Debug\net10.0\override.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\override\bin\Debug\net10.0\override.dll
+C:\Users\Administrator\RiderProjects\ptova 1\override\bin\Debug\net10.0\override.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.dll
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\refint\override.dll
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\override.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\override\obj\Debug\net10.0\ref\override.dll

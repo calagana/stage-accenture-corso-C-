@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\bin\Debug\net10.0\Metodi_override_ref_out.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\bin\Debug\net10.0\Metodi_override_ref_out.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\bin\Debug\net10.0\Metodi_override_ref_out.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\bin\Debug\net10.0\Metodi_override_ref_out.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\bin\Debug\net10.0\Metodi_override_ref_out.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\refint\Metodi_override_ref_out.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\Metodi_override_ref_out.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Metodi_override_ref_out\obj\Debug\net10.0\ref\Metodi_override_ref_out.dll

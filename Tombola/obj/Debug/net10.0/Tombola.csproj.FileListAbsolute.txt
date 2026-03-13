@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\bin\Debug\net10.0\Tombola.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\bin\Debug\net10.0\Tombola.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\bin\Debug\net10.0\Tombola.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\bin\Debug\net10.0\Tombola.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\bin\Debug\net10.0\Tombola.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\refint\Tombola.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\Tombola.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Tombola\obj\Debug\net10.0\ref\Tombola.dll

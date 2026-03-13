@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Incap_ered_polim/1.0.0": {
+        "runtime": {
+          "Incap_ered_polim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Incap_ered_polim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

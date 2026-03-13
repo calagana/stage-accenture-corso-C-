@@ -1,0 +1,14 @@
+C:\Users\Administrator\RiderProjects\ptova 1\random\bin\Debug\net10.0\random.exe
+C:\Users\Administrator\RiderProjects\ptova 1\random\bin\Debug\net10.0\random.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\random\bin\Debug\net10.0\random.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\random\bin\Debug\net10.0\random.dll
+C:\Users\Administrator\RiderProjects\ptova 1\random\bin\Debug\net10.0\random.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.dll
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\refint\random.dll
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\random.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\random\obj\Debug\net10.0\ref\random.dll
