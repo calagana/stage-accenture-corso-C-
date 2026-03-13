@@ -110,8 +110,11 @@ namespace Tombola
             // continua finchè qualcuno non fa tombola. 5 sono cinquina, 6 tombola, 7 è finito.
             while (target < 7)
             {
+                
+                // Per giocare numero per numero basta decommentare le prossime due righe
                 //Console.WriteLine("Premi Enter per estrarre il prossimo numero: ");
                 //Console.ReadLine(); 
+                
                 game.Estrai_numero();
                 //game.Stampa_numero();
                 game.Aggiorna_tabellone();
