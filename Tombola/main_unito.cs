@@ -106,40 +106,110 @@ namespace Tombola
             
             game.Genera_tabellone();
             //game.Stampa_cartellone();
-            
-            // continua finchè qualcuno non fa tombola. 5 sono cinquina, 6 tombola, 7 è finito.
-            while (target < 7)
+
+            int opzione = 0;
+            while (true)
             {
-                
-                // Per giocare numero per numero basta decommentare le prossime due righe
-                //Console.WriteLine("Premi Enter per estrarre il prossimo numero: ");
-                //Console.ReadLine(); 
-                
-                game.Estrai_numero();
-                //game.Stampa_numero();
-                game.Aggiorna_tabellone();
-                //game.Stampa_numero();
-                
-                // Ok ora voglio fare il check di ogni cartella direi
-                for (int k = 0; k < n_cartelle; k++)
+                if (target < 7)
                 {
-                    game.Check_cartella(cartelle[k], ref matrici_flag[k]);
-                    game.Check_vittorie(k, matrici_flag[k], target, ref flag_target);
+                    Console.WriteLine("Inserisci il numero: ");
+                    Console.WriteLine("1) Estrai il numero");
+                    Console.WriteLine("2) Stampa cartelle");
+                    Console.WriteLine("3) Stampa tabellone");
+                    Console.WriteLine("4) Vai alla fine");
+                    opzione = int.Parse(Console.ReadLine());
+
+
+                    switch (opzione)
+                    {
+                        // continua finchè qualcuno non fa tombola. 5 sono cinquina, 6 tombola, 7 è finito.
+                        case 1:
+                            //Console.WriteLine("Premi Enter per estrarre il prossimo numero: ");
+                            //Console.ReadLine();
+
+                            game.Estrai_numero();
+                            //game.Stampa_numero();
+                            game.Aggiorna_tabellone();
+                            game.Stampa_numero();
+
+                            // Ok ora voglio fare il check di ogni cartella direi
+                            for (int k = 0; k < n_cartelle; k++)
+                            {
+                                game.Check_cartella(cartelle[k], ref matrici_flag[k]);
+                                game.Check_vittorie(k, matrici_flag[k], target, ref flag_target);
+                            }
+
+                            game.Check_vittorie_tabellone(target, ref flag_target);
+                            // Console.WriteLine(target);
+                            // Se la flag è vera, incremento il target e riporto la flag falsa e daje.
+                            if (flag_target)
+                            {
+                                target++;
+                                flag_target = false;
+                            }
+
+                            // A questo punto non manca nulla. 
+                            break;
+                        case 2: 
+                            for (int g = 0; g < cartelleGiocatori.Count; g++)
+                            {
+                                Console.WriteLine($"\nGiocatore {g + 1}:");
+                                List<int[,]> cartelleDue = cartelleGiocatori[g];
+
+                                for (int k = 0; k < cartelleDue.Count; k++)
+                                {
+                                    Console.WriteLine($"\n Cartella {k + 1}:");
+                                    game.StampaCartella(cartelleDue[k]);
+                                }
+                            }
+
+                            break;
+                        case 3:
+                            game.Stampa_cartellone();
+                            break;
+
+                        case 4:
+                            while (target < 7)
+                            {
+
+                                // Per giocare numero per numero basta decommentare le prossime due righe
+                                //Console.WriteLine("Premi Enter per estrarre il prossimo numero: ");
+                                //Console.ReadLine(); 
+
+                                game.Estrai_numero();
+                                //game.Stampa_numero();
+                                game.Aggiorna_tabellone();
+                                //game.Stampa_numero();
+
+                                // Ok ora voglio fare il check di ogni cartella direi
+                                for (int k = 0; k < n_cartelle; k++)
+                                {
+                                    game.Check_cartella(cartelle[k], ref matrici_flag[k]);
+                                    game.Check_vittorie(k, matrici_flag[k], target, ref flag_target);
+                                }
+
+                                game.Check_vittorie_tabellone(target, ref flag_target);
+                                // Console.WriteLine(target);
+                                // Se la flag è vera, incremento il target e riporto la flag falsa e daje.
+                                if (flag_target)
+                                {
+                                    target++;
+                                    flag_target = false;
+                                }
+                                // A questo punto non manca nulla. 
+                            }
+
+                            //Console.WriteLine("Gioco finito, complimenti al vincitore!!!");
+                            game.Stampa_vittoria(divisiPremio);
+                            break;
+                    }
                 }
-                game.Check_vittorie_tabellone(target, ref flag_target);
-                // Console.WriteLine(target);
-                // Se la flag è vera, incremento il target e riporto la flag falsa e daje.
-                if (flag_target)
+                else
                 {
-                    target++;
-                    flag_target = false;
+                    Console.WriteLine("Gioco finito");
+                    break;
                 }
-                // A questo punto non manca nulla. 
             }
-            
-            //Console.WriteLine("Gioco finito, complimenti al vincitore!!!");
-            game.Stampa_vittoria(divisiPremio);
-            
         }
         
     }

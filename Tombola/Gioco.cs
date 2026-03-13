@@ -4,7 +4,7 @@ namespace  Tombola
 {
     class Gioco
     {
-        private int numero;
+        public int numero;
         private int[,] tabellone = new int[9,10];
         
         // Questo mi segnalerà quale giocatore ha vinto quale premio
@@ -275,7 +275,23 @@ namespace  Tombola
             
             Console.WriteLine("Congratulazioni!");
             
-        } 
+        }
+        
+        // Stampa una cartella
+        public void StampaCartella(int[,] cartella)
+        {
+            for (int r = 0; r < 3; r++)
+            {
+                for (int c = 0; c < 9; c++)
+                {
+                    if(usciti.Contains(cartella[r,c])) Console.Write("##\t");
+                    if(cartella[r,c] != 0) Console.Write(cartella[r, c].ToString("D2") + "\t");
+                    if(cartella[r,c] == 0) Console.Write("--\t");
+                }
+                Console.WriteLine();
+            }
+        }
+        
     }
     
     class Cartella
