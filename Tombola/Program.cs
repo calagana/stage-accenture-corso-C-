@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 namespace Tombola
 {
@@ -48,16 +48,15 @@ namespace Tombola
             game.Genera_tabellone();
             game.Stampa_cartellone();
             
-            game.Estrai_numero();
+            /*game.Estrai_numero();
             game.Stampa_numero();
             game.Aggiorna_tabellone();
             game.Stampa_cartellone();
             
+            
             // continua finchè qualcuno non fa tombola. 5 sono cinquina, 6 tombola, 7 è finito.
             while (target < 7)
             {
-                
-                
                 game.Estrai_numero();
                 game.Aggiorna_tabellone();
                 //game.Stampa_numero();
@@ -68,7 +67,8 @@ namespace Tombola
                     game.Check_cartella(cartelle[k], ref matrici_flag[k]);
                     game.Check_vittorie(k, matrici_flag[k], target, ref flag_target);
                 }
-
+                game.Check_vittorie_tabellone(target, ref flag_target);
+                // Console.WriteLine(target);
                 // Se la flag è vera, incremento il target e riporto la flag falsa e daje.
                 if (flag_target)
                 {
@@ -80,7 +80,9 @@ namespace Tombola
             
             Console.WriteLine("Gioco finito, complimenti al vincitore!!!");
             
+            //game.Stampa_cartellone();
+            
         }
         
     }
-}
+}*/
