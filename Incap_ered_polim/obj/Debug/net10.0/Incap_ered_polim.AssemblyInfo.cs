@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Incap_ered_polim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d140675c07f5e6bbc5faa8c9f392803f41fcb540")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c15ce439f87ca1ed9f2c9233a940233891007b4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Incap_ered_polim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Incap_ered_polim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
