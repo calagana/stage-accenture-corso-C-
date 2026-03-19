@@ -1,0 +1,3 @@
+﻿Mario,Rossi,20
+Luca,Bianchi,22
+Anna,Verdi,19
