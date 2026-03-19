@@ -1,0 +1,15 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\bin\Debug\net10.0\Input-output-file.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\bin\Debug\net10.0\Input-output-file.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\bin\Debug\net10.0\Input-output-file.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\bin\Debug\net10.0\Input-output-file.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\bin\Debug\net10.0\Input-output-file.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.sourcelink.json
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\refint\Input-output-file.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\Input-output-file.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Input-output-file\obj\Debug\net10.0\ref\Input-output-file.dll

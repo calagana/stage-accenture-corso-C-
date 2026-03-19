@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Esercizio_csv2/1.0.0": {
+        "runtime": {
+          "Esercizio_csv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercizio_csv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

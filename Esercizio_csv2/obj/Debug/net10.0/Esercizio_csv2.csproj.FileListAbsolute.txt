@@ -1,0 +1,15 @@
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\bin\Debug\net10.0\Esercizio_csv2.exe
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\bin\Debug\net10.0\Esercizio_csv2.deps.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\bin\Debug\net10.0\Esercizio_csv2.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\bin\Debug\net10.0\Esercizio_csv2.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\bin\Debug\net10.0\Esercizio_csv2.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.sourcelink.json
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\refint\Esercizio_csv2.dll
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.pdb
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\Esercizio_csv2.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\ptova 1\Esercizio_csv2\obj\Debug\net10.0\ref\Esercizio_csv2.dll
