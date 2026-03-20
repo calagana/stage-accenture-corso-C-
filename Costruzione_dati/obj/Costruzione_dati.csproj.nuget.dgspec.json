@@ -43,6 +43,20 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.ML.FastTree": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.1.57, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

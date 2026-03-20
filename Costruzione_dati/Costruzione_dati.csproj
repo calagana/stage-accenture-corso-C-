@@ -7,4 +7,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.ML" Version="5.0.0" />
+      <PackageReference Include="Microsoft.ML.FastTree" Version="5.0.0" />
+      <PackageReference Include="ScottPlot" Version="5.1.57" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="insurance.csv">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>

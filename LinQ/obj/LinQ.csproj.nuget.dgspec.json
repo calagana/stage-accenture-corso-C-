@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[9.0.0, )"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodi_override_ref_out")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea277ca64e648f40564a491a22cc1a24bab8d210")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a296fea8a1a0cfaa204198ede5aa365d6f140a3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodi_override_ref_out")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodi_override_ref_out")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
